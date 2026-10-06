@@ -27,7 +27,7 @@ file_name = ""
 FILE_PATH = r"C:\Users\indra\OneDrive\HSH\Health-E"
 os.makedirs(FILE_PATH, exist_ok=True)
 
-REFERENCE_FILE = r"C:\Users\indra\OneDrive\IdeaProjects\The-Blood-Analyser\Database\DSH Blood Tests.xlsx"
+REFERENCE_FILE = r"C:\Users\indra\OneDrive\IdeaProjects\The-Blood-Analyser\Database\Blood Tests.xlsx"
 
 DEFAULT_TEXT_COLOR = "black"
 WARNING_TEXT_COLOR = "red" # This is the text that is used when a bp or blood test measurement is out of range
